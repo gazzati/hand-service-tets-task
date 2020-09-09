@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/gazzati/hand-service-tets-task/static/css/main.97ca1e1b.chunk.css",
-    "main.js": "/gazzati/hand-service-tets-task/static/js/main.3376122c.chunk.js",
-    "main.js.map": "/gazzati/hand-service-tets-task/static/js/main.3376122c.chunk.js.map",
-    "runtime-main.js": "/gazzati/hand-service-tets-task/static/js/runtime-main.e9701ef5.js",
-    "runtime-main.js.map": "/gazzati/hand-service-tets-task/static/js/runtime-main.e9701ef5.js.map",
-    "static/js/2.f1b79297.chunk.js": "/gazzati/hand-service-tets-task/static/js/2.f1b79297.chunk.js",
-    "static/js/2.f1b79297.chunk.js.map": "/gazzati/hand-service-tets-task/static/js/2.f1b79297.chunk.js.map",
-    "index.html": "/gazzati/hand-service-tets-task/index.html",
-    "precache-manifest.3ae09e7b7a31a093aaf689f568f8c814.js": "/gazzati/hand-service-tets-task/precache-manifest.3ae09e7b7a31a093aaf689f568f8c814.js",
-    "service-worker.js": "/gazzati/hand-service-tets-task/service-worker.js",
-    "static/css/main.97ca1e1b.chunk.css.map": "/gazzati/hand-service-tets-task/static/css/main.97ca1e1b.chunk.css.map",
-    "static/js/2.f1b79297.chunk.js.LICENSE.txt": "/gazzati/hand-service-tets-task/static/js/2.f1b79297.chunk.js.LICENSE.txt",
-    "static/media/chick.svg": "/gazzati/hand-service-tets-task/static/media/chick.b941947c.svg",
-    "static/media/fire.svg": "/gazzati/hand-service-tets-task/static/media/fire.17f5b7f1.svg",
-    "static/media/skull.svg": "/gazzati/hand-service-tets-task/static/media/skull.07d408e4.svg"
+    "main.css": "/hand-service-tets-task/static/css/main.97ca1e1b.chunk.css",
+    "main.js": "/hand-service-tets-task/static/js/main.51b5cc07.chunk.js",
+    "main.js.map": "/hand-service-tets-task/static/js/main.51b5cc07.chunk.js.map",
+    "runtime-main.js": "/hand-service-tets-task/static/js/runtime-main.2c1b5e4c.js",
+    "runtime-main.js.map": "/hand-service-tets-task/static/js/runtime-main.2c1b5e4c.js.map",
+    "static/js/2.f1b79297.chunk.js": "/hand-service-tets-task/static/js/2.f1b79297.chunk.js",
+    "static/js/2.f1b79297.chunk.js.map": "/hand-service-tets-task/static/js/2.f1b79297.chunk.js.map",
+    "index.html": "/hand-service-tets-task/index.html",
+    "precache-manifest.a7b29980765596554ecb3f3331db6087.js": "/hand-service-tets-task/precache-manifest.a7b29980765596554ecb3f3331db6087.js",
+    "service-worker.js": "/hand-service-tets-task/service-worker.js",
+    "static/css/main.97ca1e1b.chunk.css.map": "/hand-service-tets-task/static/css/main.97ca1e1b.chunk.css.map",
+    "static/js/2.f1b79297.chunk.js.LICENSE.txt": "/hand-service-tets-task/static/js/2.f1b79297.chunk.js.LICENSE.txt",
+    "static/media/chick.svg": "/hand-service-tets-task/static/media/chick.b941947c.svg",
+    "static/media/fire.svg": "/hand-service-tets-task/static/media/fire.17f5b7f1.svg",
+    "static/media/skull.svg": "/hand-service-tets-task/static/media/skull.07d408e4.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9701ef5.js",
+    "static/js/runtime-main.2c1b5e4c.js",
     "static/js/2.f1b79297.chunk.js",
     "static/css/main.97ca1e1b.chunk.css",
-    "static/js/main.3376122c.chunk.js"
+    "static/js/main.51b5cc07.chunk.js"
   ]
 }
