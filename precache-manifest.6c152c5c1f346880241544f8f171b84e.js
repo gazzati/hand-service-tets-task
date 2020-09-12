@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20e2d799439e0f5ee1bef6f157185d5e",
+    "revision": "b78c9dbcdb5afdb3d830c8290a4a6777",
     "url": "/hand-service-tets-task/index.html"
   },
   {
-    "revision": "f409861724b7638ad2f2",
+    "revision": "9440c081edb21909b4a0",
     "url": "/hand-service-tets-task/static/css/main.97ca1e1b.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hand-service-tets-task/static/js/2.647447f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f409861724b7638ad2f2",
-    "url": "/hand-service-tets-task/static/js/main.a52b4f35.chunk.js"
+    "revision": "9440c081edb21909b4a0",
+    "url": "/hand-service-tets-task/static/js/main.29b46db1.chunk.js"
   },
   {
     "revision": "a30f9abf6b8ecb05c0b2",

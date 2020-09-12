@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hand-service-tets-task/precache-manifest.eee77514754f578dd5c1b42d67f55ad9.js"
+  "/hand-service-tets-task/precache-manifest.6c152c5c1f346880241544f8f171b84e.js"
 );
 
 self.addEventListener('message', (event) => {
