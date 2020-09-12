@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "704a8ffc6ed0762942d26e39f524d10d",
+    "revision": "ad7722c13303bbb1c7a44bb3f757717e",
     "url": "/hand-service-tets-task/index.html"
   },
   {
-    "revision": "b2977674f2b025f88b72",
+    "revision": "0ba7bbebd8446232d9eb",
     "url": "/hand-service-tets-task/static/css/main.97ca1e1b.chunk.css"
   },
   {
-    "revision": "6fb4366c9051aee9cb75",
-    "url": "/hand-service-tets-task/static/js/2.f1b79297.chunk.js"
+    "revision": "dc3a60954512669cc6cf",
+    "url": "/hand-service-tets-task/static/js/2.647447f0.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/hand-service-tets-task/static/js/2.f1b79297.chunk.js.LICENSE.txt"
+    "url": "/hand-service-tets-task/static/js/2.647447f0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b2977674f2b025f88b72",
-    "url": "/hand-service-tets-task/static/js/main.51b5cc07.chunk.js"
+    "revision": "0ba7bbebd8446232d9eb",
+    "url": "/hand-service-tets-task/static/js/main.f595c4fa.chunk.js"
   },
   {
     "revision": "a30f9abf6b8ecb05c0b2",
